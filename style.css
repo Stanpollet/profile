@@ -25,7 +25,7 @@ h3 {
     box-shadow: 0 0 1px transparent;
   }
 body{
-  background-image: url("../images/trumpets.png");
+  background-image: url("/images/trumpets.png");
   background-image: center;
   background-color: #c5cedd;
   text-align: center;
